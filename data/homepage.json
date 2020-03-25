@@ -1,0 +1,60 @@
+{
+  "en": {
+    "name": "Homepage",
+    "type": "Homepage",
+    "path": "",
+    "metadata":  {
+      "title": "Auth0 Overview",
+      "description": "Never Compromise on Identity",
+      "image": "https://cdn.auth0.com/website/assets/modules/opengraph/1x-new-69e09d5054.png"
+    },
+    "theme":  {
+      "header": "dark",
+      "footer": "light"
+    },
+    "blocks":  [
+      {
+        "id": "hero",
+        "props": {
+          "title": "Hero Overview"
+        }
+      },
+      {
+        "id": "quote",
+        "props": {
+          "message": "This is a quote",
+          "author": ""
+        }
+      }
+    ]
+  },
+  "de": {
+    "name": "Homepage German",
+    "type": "Homepage",
+    "path": "de/overview",
+    "metadata":  {
+      "title": "Auth0 Overview",
+      "description": "Never Compromise on Identity",
+      "image": "https://cdn.auth0.com/website/assets/modules/opengraph/1x-new-69e09d5054.png"
+    },
+    "theme":  {
+      "header": "dark",
+      "footer": "light"
+    },
+    "blocks":  [
+      {
+        "id": "hero",
+        "props": {
+          "title": ""
+        }
+      },
+      {
+        "id": "quote",
+        "props": {
+          "message": "",
+          "author": ""
+        }
+      }
+    ]
+  }
+}
